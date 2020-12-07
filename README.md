@@ -1,5 +1,21 @@
 # Блэкджек
 
+
+### Implemented features:
+- State machine of the game
+- Aces management, Doubledown
+- Balance of the player
+- CLI interface for the game
+- Hardcoded, but easy to change configuration of the game
+
+### Unimplemented features:
+- Split
+- Bet insurance (for blackjack, pairs, etc)
+- Telegram interface/GUI
+
+
+
+
 Условия:
 - Необходимые:
     - Проектирование - в ООП (**5**)
@@ -10,7 +26,7 @@
     - Игра игрока против дилера на одной колоде (**3**)
     - Базовые правила игры (**2**)
 - Magic methods:
-    - Использование statickmethod, classmethod, property (**2**)
+    - Использование staticmethod, classmethod, property (**2**)
     - Собственный итератор по колоде с magic-методами (**2**)
     - Контекстный менеджер по логике игры (**1**)
 - Декораторы:
