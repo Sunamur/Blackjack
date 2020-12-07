@@ -1,4 +1,4 @@
-# Блэкджек
+# BlackJack
 
 
 ### Implemented features:
